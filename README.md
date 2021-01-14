@@ -26,8 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/8jhFomV"  ><a href="//imgur.com/a/8jhFomV">Tylor Autore&#39;s SimpleTodo Pre-work Walkthrough</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-<img src='https://i.imgur.com/4LqjdnQ.gif' title='Tylor Autore's SimpleTodo Pre-work Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/4LqjdnQ.gif' title='Tylor Autore's SimpleTodo Pre-work Walkthrough' width='' alt='Video Walkthrough'/>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -37,7 +36,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2020] [Tylor Autore]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
