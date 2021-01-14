@@ -26,6 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/8jhFomV"  ><a href="//imgur.com/a/8jhFomV">Tylor Autore&#39;s SimpleTodo Pre-work Walkthrough</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 <img src='https://i.imgur.com/4LqjdnQ.gif' title='Tylor Autore's SimpleTodo Pre-work Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
